@@ -1,3 +1,17 @@
+div img {
+  width: 350px;
+  height: 500px;
+}
+
 [alt="14Dokkan"] {
   filter: drop-shadow(20px 20px 20px red);
+}
+[alt="15Dokkan"] {
+  filter: drop-shadow(20px 20px 20px yellow);
+}
+[alt="17_Artwork"] {
+  filter: drop-shadow(20px 20px 20px blue);
+}
+[alt="Android19"] {
+  filter: drop-shadow(20px 20px 20px rgb(60, 60, 60));
 }
